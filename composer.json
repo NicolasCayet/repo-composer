@@ -1,0 +1,23 @@
+{
+    "name":"justfortest/repo1",
+    "description":"ROMGe",
+    "version":"v1.0a",
+    "type":"application",
+    "time":"2014-04-01 18:00:00",
+    "license":"GNU General Public License",
+    "authors":[
+    ],
+    "suggest":{
+        
+    },
+    "require":{
+        "php":">=5.3.0"
+    },
+    "require-dev":{
+    },
+    "repositories":[
+        
+    ],
+    "autoload":{
+    }
+}
